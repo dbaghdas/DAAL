@@ -6,7 +6,7 @@ class Play extends Phaser.Scene{
     preload() {}
 
     create() {
-        
+        test
     }
 
     update() {}
